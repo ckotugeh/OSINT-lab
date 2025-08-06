@@ -1,2 +1,2 @@
 # OSINT-lab
-performed reconaisent using OSINT tools
+performed reconnaissance using OSINT framework
